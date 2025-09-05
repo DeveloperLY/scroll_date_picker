@@ -1,3 +1,7 @@
+## 3.8.1
+
+* Modify the mask effect.
+
 ## 3.8.0
 
 * Add the functionality to change dates by touch. Thanks @unyang09. (#28)
